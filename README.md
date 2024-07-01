@@ -65,3 +65,6 @@ coll = COLLECT(
     name='XdeOCR',
 )
 ```
+
+## Result
+<div align='center'><img src='./window.png'></div>
